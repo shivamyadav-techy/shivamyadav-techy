@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shivam Yadav 👋
 
-<!--
-**shivamyadav-techy/shivamyadav-techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer | Learning React.js
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate focused on building responsive, user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **React.js**
+* 💻 Skills: **JavaScript, HTML, CSS, Flexbox, CSS Grid**
+* 🛠️ Building practical projects to improve my development skills
+* 🎯 Goal: Become a Frontend Developer and contribute to real-world projects
+* 📂 All my projects will be available here on GitHub
+
+### Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Git & GitHub
+
+### Connect with Me
+
+* GitHub: [@shivamyadav-techy](https://github.com/shivamyadav-techy)
+
+---
+
+*Learning by building, improving every day.*
